@@ -8,11 +8,11 @@ const Metal Group = {
         backEnd: {
             nodejs: ["express", "Sequelize"],
             java: ["springboot"],["quarkus"], ["glassfish"], ["maven"],["microservices"],
-            python: ["flask", "django", "selenium", "joblib"]
+            python: ["flask", "django", "selenium", "joblib"],
             typescript: ["typeorm", "react-native"],["react"]
         },
         frontEnd: { 
-            angular: ["angularJS"]
+            angular: ["angularJS"],
             react: ["react-native"],
             react: ["electron"]
         }        
